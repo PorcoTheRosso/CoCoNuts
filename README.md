@@ -1,3 +1,18 @@
+ACME POS Terminal
+=================
+
+This is the code starter for the custom POS terminal our client, the ACME Germany GmbH, wants you to build.
+
+The software will run on simple custom hardware.
+It needs to take text input and produce text output.
+
+To get started:
+
+* Make *one* fork of this repository per team.
+* Add all other team members to the forked repository.
+* Every team member can now clone the forked repository & push to it.
+
+
 Handling Money in Code
 ----------------------
 
